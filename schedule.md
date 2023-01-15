@@ -10,3 +10,6 @@ Java, Postgresql, React - Blogging website.
 
 01/15 - Restart capstone backend from scratch. *critical fail*
 
+------------------------------------------------------
+
+01/16-01/17 finish backend api. Start React Front - end
