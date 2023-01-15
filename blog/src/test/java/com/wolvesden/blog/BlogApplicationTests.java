@@ -1,10 +1,10 @@
-package com.accapstone.capstoneback;
+package com.wolvesden.blog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CapstonebackApplicationTests {
+class BlogApplicationTests {
 
 	@Test
 	void contextLoads() {
