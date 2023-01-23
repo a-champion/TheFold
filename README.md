@@ -1,8 +1,6 @@
 # TheFold
 backend/api for the fold video sharing blog
 
-https://the-fold-api.herokuapp.com/
-
 Built using Java Spring Boot and the Java 17 JDK
 Dependencies
 
