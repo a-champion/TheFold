@@ -13,6 +13,8 @@ public class Post {
     public String postedBy;
     public String contentURL;
     public String body;
+    public String title;
+
 
     public Post(){
 
@@ -54,6 +56,14 @@ public class Post {
 
     public void setBody(String body) {
         this.body = body;
+    }
+
+    public String getTitle() {
+        return this.title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
     }
 
 
